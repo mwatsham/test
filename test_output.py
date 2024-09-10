@@ -1,2 +1,2 @@
 print("Hello World!")
-print("It's a band new day
+print("It's a brand new day")
